@@ -4,6 +4,7 @@
 * pavel.shnurov@gmail.com
 * t.me/pavelshnurov
 * +38268115857
+
 ---
 
 ### About me
@@ -11,7 +12,8 @@
 >
 > constantly expanding my knowledge
 >
-> camping / yachting / spearfishing
+> camping, yachting, spearfishing
+
 ---
 
 ### Skills:
@@ -19,6 +21,7 @@
 * Flex / React  
 * JIRA / GitHub
 * Adobe Photoshop / Figma
+
 ---
 
 ### Code example:
@@ -44,11 +47,13 @@ function arrayDiff(a, b) {
     + SMM Manager 
 * bookhouse.ru - 2 year
     + IT Engineer
+
 ---
 
 ### Education:
 #### [Russian Presidential Academy of National Economy and Public Administration Saint Petersburg](https://spb.ranepa.ru/)
 #### GiMU, Master’s Degree in Management
+
 ---
 
 ### Language:
